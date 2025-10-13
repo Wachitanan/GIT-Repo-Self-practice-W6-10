@@ -1,0 +1,2 @@
+เรียนรู้เกี่ยวกับการใช้ nested func และ closure func และก็ higher order func รู้ว่ามันใช้ยังไงทำงานยังไงคร่าวๆ
+แล้วก็ลองทำโจทย์จาก chat gpt 
