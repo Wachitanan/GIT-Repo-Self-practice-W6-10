@@ -1,0 +1,1 @@
+ลองใช้คำสั่งต่างๆใน js เช่น innerHTML , innerText , textContent หรือเป็นการเพิ่มลูกเล่นให้กับ html หลักโดยใช้คำสั่ง js เช่น setAttribute

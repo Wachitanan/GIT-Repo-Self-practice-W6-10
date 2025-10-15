@@ -1,2 +1,6 @@
+week 6
 เรียนรู้เกี่ยวกับการใช้ nested func และ closure func และก็ higher order func รู้ว่ามันใช้ยังไงทำงานยังไงคร่าวๆ
 แล้วก็ลองทำโจทย์จาก chat gpt 
+
+week 7
+ลองใช้คำสั่งที่เกี่ยวกับการเปลี่ยนเเปลง html innerHTML , innerText , textContent หรือ setAttribute
