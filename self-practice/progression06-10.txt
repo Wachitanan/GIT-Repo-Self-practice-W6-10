@@ -4,3 +4,6 @@ week 6
 
 week 7
 ลองใช้คำสั่งที่เกี่ยวกับการเปลี่ยนเเปลง html innerHTML , innerText , textContent หรือ setAttribute
+
+week 8 
+รู้เพิ่มหลายๆอย่างเช่น การเพิ่มหรือลบ bordered หรือกำหนดสี background ให้ box และก็เขียนโค้ดเพื่อเพิ่ม content และ author ขึ้นหน้าเว็บ
