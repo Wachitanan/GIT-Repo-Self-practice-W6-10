@@ -7,3 +7,6 @@ week 7
 
 week 8 
 รู้เพิ่มหลายๆอย่างเช่น การเพิ่มหรือลบ bordered หรือกำหนดสี background ให้ box และก็เขียนโค้ดเพื่อเพิ่ม content และ author ขึ้นหน้าเว็บ
+
+week 9
+ฝึกใช้ ใช้ message และ ฝึกใช้ event.key
