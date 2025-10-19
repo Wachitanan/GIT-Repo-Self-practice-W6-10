@@ -1,0 +1,1 @@
+session กับ local ต่างกันเเค่อายุ, localอยู่ยาว session อยู่เเค่เฉพาะ tab นั้น แล้วก็ได้ลองเขียน localStorage จากงานใน class ใช้ร่วมกับ addEventListener

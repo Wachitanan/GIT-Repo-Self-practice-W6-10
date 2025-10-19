@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ตั้งค่าหน้าจอ</title>
+  <style>
+    body {
+      background-color: white;
+      color: black;
+      font-size: medium;
+      font-family: sans-serif;
+      padding: 20px;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      max-width: 300px;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 6px 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h2>ตั้งค่าหน้าเว็บ</h2>
+
+  <form id="settingForm">
+    <label for="bgColor">Background Color:</label>
+    <input type="color" id="bgColor" name="bgColor" />
+
+    <label for="fontColor">Font Color:</label>
+    <input type="color" id="fontColor" name="fontColor" />
+
+    <label for="fontSize">Font Size:</label>
+    <select id="fontSize" name="fontSize">
+      <option value="small">Small</option>
+      <option value="medium" selected>Medium</option>
+      <option value="large">Large</option>
+    </select>
+
+    <button type="button" id="saveBtn">Save</button>
+    <button type="button" id="resetBtn">Reset</button>
+  </form>
+
+  <p>ตัวอย่างข้อความนี้จะเปลี่ยนตามค่าที่เลือก</p>
+
+  <script src="sctipt.js"></script>
+</body>
+</html>
